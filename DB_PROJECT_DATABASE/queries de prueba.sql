@@ -19,3 +19,7 @@ SELECT name, type_desc
 FROM sys.database_principals
 WHERE name = 'root_user';
 
+select name, compatibility_level
+from sys.databases
+where name = 'coco_tours_db'
+
