@@ -1,14 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\Material de la uni\\III Nivel 2025\\I Ciclo\\Bases de datos\\Proyecto Final\\DB_PROJECT_DATABASE\\",
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\Material de la uni\\III Nivel 2025\\II Cliclo\\Administraci\u00F3n de bases de datos\\Proyecto_Final_BD\\Proyecto_Final_BD_database\\DB_PROJECT_DATABASE\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EC231600-ACE5-CC1A-8FC2-1145FCF32354}|DB_PROJECT_DATABASE.ssmssqlproj|C:\\Users\\Admin\\Desktop\\Material de la uni\\III Nivel 2025\\I Ciclo\\Bases de datos\\Proyecto Final\\DB_PROJECT_DATABASE\\Procedimiento_coco_tours_cliente.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
-      "RelativeMoniker": "D:0:0:{EC231600-ACE5-CC1A-8FC2-1145FCF32354}|DB_PROJECT_DATABASE.ssmssqlproj|solutionrelative:Procedimiento_coco_tours_cliente.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EC231600-ACE5-CC1A-8FC2-1145FCF32354}|DB_PROJECT_DATABASE.ssmssqlproj|C:\\Users\\Admin\\Desktop\\Material de la uni\\III Nivel 2025\\I Ciclo\\Bases de datos\\Proyecto Final\\DB_PROJECT_DATABASE\\Procedimiento_coco_tours_admin.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
-      "RelativeMoniker": "D:0:0:{EC231600-ACE5-CC1A-8FC2-1145FCF32354}|DB_PROJECT_DATABASE.ssmssqlproj|solutionrelative:Procedimiento_coco_tours_admin.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+      "AbsoluteMoniker": "D:0:0:{EC231600-ACE5-CC1A-8FC2-1145FCF32354}|DB_PROJECT_DATABASE.ssmssqlproj|C:\\Users\\Admin\\Desktop\\Material de la uni\\III Nivel 2025\\II Cliclo\\Administraci\u00F3n de bases de datos\\Proyecto_Final_BD\\Proyecto_Final_BD_database\\DB_PROJECT_DATABASE\\queries de prueba.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{EC231600-ACE5-CC1A-8FC2-1145FCF32354}|DB_PROJECT_DATABASE.ssmssqlproj|solutionrelative:queries de prueba.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,24 +19,13 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Procedimiento_coco_tours_cliente.sql - DESKTOP-1J8JCLT\\LOCALHOST.coco_tours_db (DESKTOP-1J8JCLT\\Admin (53))",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Material de la uni\\III Nivel 2025\\I Ciclo\\Bases de datos\\Proyecto Final\\DB_PROJECT_DATABASE\\Procedimiento_coco_tours_cliente.sql",
-              "RelativeDocumentMoniker": "Procedimiento_coco_tours_cliente.sql",
-              "ToolTip": "Procedimiento_coco_tours_cliente.sql - DESKTOP-1J8JCLT\\LOCALHOST.coco_tours_db (DESKTOP-1J8JCLT\\Admin (53))",
+              "Title": "queries de prueba.sql - DESKTOP-1J8JCLT\\LOCALHOST.coco_tours_db (DESKTOP-1J8JCLT\\Admin (70))",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Material de la uni\\III Nivel 2025\\II Cliclo\\Administraci\u00F3n de bases de datos\\Proyecto_Final_BD\\Proyecto_Final_BD_database\\DB_PROJECT_DATABASE\\queries de prueba.sql",
+              "RelativeDocumentMoniker": "queries de prueba.sql",
+              "ToolTip": "queries de prueba.sql - DESKTOP-1J8JCLT\\LOCALHOST.coco_tours_db (DESKTOP-1J8JCLT\\Admin (70))",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-08-15T03:13:38.449Z",
-              "EditorCaption": " - DESKTOP-1J8JCLT\\LOCALHOST.coco_tours_db (DESKTOP-1J8JCLT\\Admin (53))"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Procedimiento_coco_tours_admin.sql - DESKTOP-1J8JCLT\\LOCALHOST.coco_tours_db (DESKTOP-1J8JCLT\\Admin (77))",
-              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Material de la uni\\III Nivel 2025\\I Ciclo\\Bases de datos\\Proyecto Final\\DB_PROJECT_DATABASE\\Procedimiento_coco_tours_admin.sql",
-              "RelativeDocumentMoniker": "Procedimiento_coco_tours_admin.sql",
-              "ToolTip": "Procedimiento_coco_tours_admin.sql - DESKTOP-1J8JCLT\\LOCALHOST.coco_tours_db (DESKTOP-1J8JCLT\\Admin (77))",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-08-15T02:44:48.727Z",
-              "EditorCaption": " - DESKTOP-1J8JCLT\\LOCALHOST.coco_tours_db (DESKTOP-1J8JCLT\\Admin (77))"
+              "WhenOpened": "2025-08-22T02:49:22.973Z",
+              "EditorCaption": " - DESKTOP-1J8JCLT\\LOCALHOST.coco_tours_db (DESKTOP-1J8JCLT\\Admin (70))"
             }
           ]
         }

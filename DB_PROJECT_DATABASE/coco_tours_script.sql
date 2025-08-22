@@ -36,6 +36,7 @@ CREATE TABLE [user] (
     password VARCHAR(150) NOT NULL,
     client_id INT DEFAULT NULL,
     admin_id INT DEFAULT NULL,
+    [role] VARCHAR(10) DEFAULT NULL,
     FOREIGN KEY (client_id) REFERENCES client(id) ON DELETE SET NULL,
     FOREIGN KEY (admin_id) REFERENCES administrator(id) ON DELETE SET NULL
     );
