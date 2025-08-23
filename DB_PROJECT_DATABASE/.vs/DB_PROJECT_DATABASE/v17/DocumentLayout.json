@@ -1,12 +1,200 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\Material de la uni\\III Nivel 2025\\II Cliclo\\Administraci\u00F3n de bases de datos\\Proyecto_Final_BD\\Proyecto_Final_BD_database\\DB_PROJECT_DATABASE\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Universidad Nacional\\Documents\\II Ciclo\\Admin Base de datos\\Trabajo\\Trabajo Final\\Proyecto_Final_BD_Database\\DB_PROJECT_DATABASE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC231600-ACE5-CC1A-8FC2-1145FCF32354}|DB_PROJECT_DATABASE.ssmssqlproj|C:\\Users\\Universidad Nacional\\Documents\\II Ciclo\\Admin Base de datos\\Trabajo\\Trabajo Final\\Proyecto_Final_BD_Database\\DB_PROJECT_DATABASE\\pa_tour_update.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{EC231600-ACE5-CC1A-8FC2-1145FCF32354}|DB_PROJECT_DATABASE.ssmssqlproj|solutionrelative:pa_tour_update.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC231600-ACE5-CC1A-8FC2-1145FCF32354}|DB_PROJECT_DATABASE.ssmssqlproj|C:\\Users\\Universidad Nacional\\Documents\\II Ciclo\\Admin Base de datos\\Trabajo\\Trabajo Final\\Proyecto_Final_BD_Database\\DB_PROJECT_DATABASE\\pa_tour_add.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{EC231600-ACE5-CC1A-8FC2-1145FCF32354}|DB_PROJECT_DATABASE.ssmssqlproj|solutionrelative:pa_tour_add.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC231600-ACE5-CC1A-8FC2-1145FCF32354}|DB_PROJECT_DATABASE.ssmssqlproj|C:\\Users\\Universidad Nacional\\Documents\\II Ciclo\\Admin Base de datos\\Trabajo\\Trabajo Final\\Proyecto_Final_BD_Database\\DB_PROJECT_DATABASE\\pa_supplier_update.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{EC231600-ACE5-CC1A-8FC2-1145FCF32354}|DB_PROJECT_DATABASE.ssmssqlproj|solutionrelative:pa_supplier_update.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC231600-ACE5-CC1A-8FC2-1145FCF32354}|DB_PROJECT_DATABASE.ssmssqlproj|C:\\Users\\Universidad Nacional\\Documents\\II Ciclo\\Admin Base de datos\\Trabajo\\Trabajo Final\\Proyecto_Final_BD_Database\\DB_PROJECT_DATABASE\\pa_supplier_delete.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{EC231600-ACE5-CC1A-8FC2-1145FCF32354}|DB_PROJECT_DATABASE.ssmssqlproj|solutionrelative:pa_supplier_delete.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC231600-ACE5-CC1A-8FC2-1145FCF32354}|DB_PROJECT_DATABASE.ssmssqlproj|C:\\Users\\Universidad Nacional\\Documents\\II Ciclo\\Admin Base de datos\\Trabajo\\Trabajo Final\\Proyecto_Final_BD_Database\\DB_PROJECT_DATABASE\\pa_supplier_add.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{EC231600-ACE5-CC1A-8FC2-1145FCF32354}|DB_PROJECT_DATABASE.ssmssqlproj|solutionrelative:pa_supplier_add.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC231600-ACE5-CC1A-8FC2-1145FCF32354}|DB_PROJECT_DATABASE.ssmssqlproj|C:\\Users\\Universidad Nacional\\Documents\\II Ciclo\\Admin Base de datos\\Trabajo\\Trabajo Final\\Proyecto_Final_BD_Database\\DB_PROJECT_DATABASE\\pa_passenger_add.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{EC231600-ACE5-CC1A-8FC2-1145FCF32354}|DB_PROJECT_DATABASE.ssmssqlproj|solutionrelative:pa_passenger_add.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC231600-ACE5-CC1A-8FC2-1145FCF32354}|DB_PROJECT_DATABASE.ssmssqlproj|C:\\Users\\Universidad Nacional\\Documents\\II Ciclo\\Admin Base de datos\\Trabajo\\Trabajo Final\\Proyecto_Final_BD_Database\\DB_PROJECT_DATABASE\\pa_extra_update.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{EC231600-ACE5-CC1A-8FC2-1145FCF32354}|DB_PROJECT_DATABASE.ssmssqlproj|solutionrelative:pa_extra_update.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC231600-ACE5-CC1A-8FC2-1145FCF32354}|DB_PROJECT_DATABASE.ssmssqlproj|C:\\Users\\Universidad Nacional\\Documents\\II Ciclo\\Admin Base de datos\\Trabajo\\Trabajo Final\\Proyecto_Final_BD_Database\\DB_PROJECT_DATABASE\\pa_extra_delete.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{EC231600-ACE5-CC1A-8FC2-1145FCF32354}|DB_PROJECT_DATABASE.ssmssqlproj|solutionrelative:pa_extra_delete.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC231600-ACE5-CC1A-8FC2-1145FCF32354}|DB_PROJECT_DATABASE.ssmssqlproj|C:\\Users\\Universidad Nacional\\Documents\\II Ciclo\\Admin Base de datos\\Trabajo\\Trabajo Final\\Proyecto_Final_BD_Database\\DB_PROJECT_DATABASE\\pa_extra_add.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{EC231600-ACE5-CC1A-8FC2-1145FCF32354}|DB_PROJECT_DATABASE.ssmssqlproj|solutionrelative:pa_extra_add.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC231600-ACE5-CC1A-8FC2-1145FCF32354}|DB_PROJECT_DATABASE.ssmssqlproj|C:\\Users\\Universidad Nacional\\Documents\\II Ciclo\\Admin Base de datos\\Trabajo\\Trabajo Final\\Proyecto_Final_BD_Database\\DB_PROJECT_DATABASE\\pa_client_update.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{EC231600-ACE5-CC1A-8FC2-1145FCF32354}|DB_PROJECT_DATABASE.ssmssqlproj|solutionrelative:pa_client_update.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC231600-ACE5-CC1A-8FC2-1145FCF32354}|DB_PROJECT_DATABASE.ssmssqlproj|C:\\Users\\Universidad Nacional\\Documents\\II Ciclo\\Admin Base de datos\\Trabajo\\Trabajo Final\\Proyecto_Final_BD_Database\\DB_PROJECT_DATABASE\\pa_client_delete.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{EC231600-ACE5-CC1A-8FC2-1145FCF32354}|DB_PROJECT_DATABASE.ssmssqlproj|solutionrelative:pa_client_delete.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC231600-ACE5-CC1A-8FC2-1145FCF32354}|DB_PROJECT_DATABASE.ssmssqlproj|C:\\Users\\Universidad Nacional\\Documents\\II Ciclo\\Admin Base de datos\\Trabajo\\Trabajo Final\\Proyecto_Final_BD_Database\\DB_PROJECT_DATABASE\\pa_client_add.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}",
+      "RelativeMoniker": "D:0:0:{EC231600-ACE5-CC1A-8FC2-1145FCF32354}|DB_PROJECT_DATABASE.ssmssqlproj|solutionrelative:pa_client_add.sql||{B5A506EB-11BE-4782-9A18-21265C2CA0B4}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "pa_supplier_delete.sql - localhost.master (Nahomy\\Universidad Nacional (67))",
+              "DocumentMoniker": "C:\\Users\\Universidad Nacional\\Documents\\II Ciclo\\Admin Base de datos\\Trabajo\\Trabajo Final\\Proyecto_Final_BD_Database\\DB_PROJECT_DATABASE\\pa_supplier_delete.sql",
+              "RelativeDocumentMoniker": "pa_supplier_delete.sql",
+              "ToolTip": "pa_supplier_delete.sql - localhost.master (Nahomy\\Universidad Nacional (67))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-08-23T01:24:54.294Z",
+              "EditorCaption": " - localhost.master (Nahomy\\Universidad Nacional (67))"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "pa_supplier_update.sql - localhost.coco_tours_db (Nahomy\\Universidad Nacional (68))",
+              "DocumentMoniker": "C:\\Users\\Universidad Nacional\\Documents\\II Ciclo\\Admin Base de datos\\Trabajo\\Trabajo Final\\Proyecto_Final_BD_Database\\DB_PROJECT_DATABASE\\pa_supplier_update.sql",
+              "RelativeDocumentMoniker": "pa_supplier_update.sql",
+              "ToolTip": "pa_supplier_update.sql - localhost.coco_tours_db (Nahomy\\Universidad Nacional (68))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-08-23T01:25:04.726Z",
+              "EditorCaption": " - localhost.coco_tours_db (Nahomy\\Universidad Nacional (68))"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "pa_tour_add.sql - localhost.master (Nahomy\\Universidad Nacional (79))",
+              "DocumentMoniker": "C:\\Users\\Universidad Nacional\\Documents\\II Ciclo\\Admin Base de datos\\Trabajo\\Trabajo Final\\Proyecto_Final_BD_Database\\DB_PROJECT_DATABASE\\pa_tour_add.sql",
+              "RelativeDocumentMoniker": "pa_tour_add.sql",
+              "ToolTip": "pa_tour_add.sql - localhost.master (Nahomy\\Universidad Nacional (79))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-08-23T01:25:23.526Z",
+              "EditorCaption": " - localhost.master (Nahomy\\Universidad Nacional (79))"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "pa_tour_update.sql - localhost.master (Nahomy\\Universidad Nacional (80))",
+              "DocumentMoniker": "C:\\Users\\Universidad Nacional\\Documents\\II Ciclo\\Admin Base de datos\\Trabajo\\Trabajo Final\\Proyecto_Final_BD_Database\\DB_PROJECT_DATABASE\\pa_tour_update.sql",
+              "RelativeDocumentMoniker": "pa_tour_update.sql",
+              "ToolTip": "pa_tour_update.sql - localhost.master (Nahomy\\Universidad Nacional (80))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-08-23T01:25:41.068Z",
+              "EditorCaption": " - localhost.master (Nahomy\\Universidad Nacional (80))"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "pa_supplier_add.sql - localhost.coco_tours_db (Nahomy\\Universidad Nacional (61))",
+              "DocumentMoniker": "C:\\Users\\Universidad Nacional\\Documents\\II Ciclo\\Admin Base de datos\\Trabajo\\Trabajo Final\\Proyecto_Final_BD_Database\\DB_PROJECT_DATABASE\\pa_supplier_add.sql",
+              "RelativeDocumentMoniker": "pa_supplier_add.sql",
+              "ToolTip": "pa_supplier_add.sql - localhost.coco_tours_db (Nahomy\\Universidad Nacional (61))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-08-23T01:24:33.05Z",
+              "EditorCaption": " - localhost.coco_tours_db (Nahomy\\Universidad Nacional (61))"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "pa_passenger_add.sql - localhost.master (Nahomy\\Universidad Nacional (56))",
+              "DocumentMoniker": "C:\\Users\\Universidad Nacional\\Documents\\II Ciclo\\Admin Base de datos\\Trabajo\\Trabajo Final\\Proyecto_Final_BD_Database\\DB_PROJECT_DATABASE\\pa_passenger_add.sql",
+              "RelativeDocumentMoniker": "pa_passenger_add.sql",
+              "ToolTip": "pa_passenger_add.sql - localhost.master (Nahomy\\Universidad Nacional (56))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-08-23T01:23:33.481Z",
+              "EditorCaption": " - localhost.master (Nahomy\\Universidad Nacional (56))"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "pa_extra_update.sql - localhost.master (Nahomy\\Universidad Nacional (75))",
+              "DocumentMoniker": "C:\\Users\\Universidad Nacional\\Documents\\II Ciclo\\Admin Base de datos\\Trabajo\\Trabajo Final\\Proyecto_Final_BD_Database\\DB_PROJECT_DATABASE\\pa_extra_update.sql",
+              "RelativeDocumentMoniker": "pa_extra_update.sql",
+              "ToolTip": "pa_extra_update.sql - localhost.master (Nahomy\\Universidad Nacional (75))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-08-23T01:20:48.591Z",
+              "EditorCaption": " - localhost.master (Nahomy\\Universidad Nacional (75))"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "pa_extra_delete.sql - localhost.master (Nahomy\\Universidad Nacional (74))",
+              "DocumentMoniker": "C:\\Users\\Universidad Nacional\\Documents\\II Ciclo\\Admin Base de datos\\Trabajo\\Trabajo Final\\Proyecto_Final_BD_Database\\DB_PROJECT_DATABASE\\pa_extra_delete.sql",
+              "RelativeDocumentMoniker": "pa_extra_delete.sql",
+              "ToolTip": "pa_extra_delete.sql - localhost.master (Nahomy\\Universidad Nacional (74))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-08-23T01:20:32.935Z",
+              "EditorCaption": " - localhost.master (Nahomy\\Universidad Nacional (74))"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "pa_extra_add.sql - localhost.master (Nahomy\\Universidad Nacional (73))",
+              "DocumentMoniker": "C:\\Users\\Universidad Nacional\\Documents\\II Ciclo\\Admin Base de datos\\Trabajo\\Trabajo Final\\Proyecto_Final_BD_Database\\DB_PROJECT_DATABASE\\pa_extra_add.sql",
+              "RelativeDocumentMoniker": "pa_extra_add.sql",
+              "ToolTip": "pa_extra_add.sql - localhost.master (Nahomy\\Universidad Nacional (73))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-08-23T01:20:19.375Z",
+              "EditorCaption": " - localhost.master (Nahomy\\Universidad Nacional (73))"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "pa_client_update.sql - localhost.master (Nahomy\\Universidad Nacional (63))",
+              "DocumentMoniker": "C:\\Users\\Universidad Nacional\\Documents\\II Ciclo\\Admin Base de datos\\Trabajo\\Trabajo Final\\Proyecto_Final_BD_Database\\DB_PROJECT_DATABASE\\pa_client_update.sql",
+              "RelativeDocumentMoniker": "pa_client_update.sql",
+              "ToolTip": "pa_client_update.sql - localhost.master (Nahomy\\Universidad Nacional (63))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-08-23T01:19:38.119Z",
+              "EditorCaption": " - localhost.master (Nahomy\\Universidad Nacional (63))"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "pa_client_delete.sql - localhost.master (Nahomy\\Universidad Nacional (59))",
+              "DocumentMoniker": "C:\\Users\\Universidad Nacional\\Documents\\II Ciclo\\Admin Base de datos\\Trabajo\\Trabajo Final\\Proyecto_Final_BD_Database\\DB_PROJECT_DATABASE\\pa_client_delete.sql",
+              "RelativeDocumentMoniker": "pa_client_delete.sql",
+              "ToolTip": "pa_client_delete.sql - localhost.master (Nahomy\\Universidad Nacional (59))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-08-23T01:19:18.815Z",
+              "EditorCaption": " - localhost.master (Nahomy\\Universidad Nacional (59))"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "pa_client_add.sql - localhost.master (Nahomy\\Universidad Nacional (58))",
+              "DocumentMoniker": "C:\\Users\\Universidad Nacional\\Documents\\II Ciclo\\Admin Base de datos\\Trabajo\\Trabajo Final\\Proyecto_Final_BD_Database\\DB_PROJECT_DATABASE\\pa_client_add.sql",
+              "RelativeDocumentMoniker": "pa_client_add.sql",
+              "ToolTip": "pa_client_add.sql - localhost.master (Nahomy\\Universidad Nacional (58))",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-08-23T01:18:58.088Z",
+              "EditorCaption": " - localhost.master (Nahomy\\Universidad Nacional (58))"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
