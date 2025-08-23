@@ -3,7 +3,7 @@
   <Items>
     <LogicalFolder Name="Conexiones" Type="2" Sorted="true">
       <Items>
-        <ConnectionNode Name="DESKTOP-1J8JCLT\LOCALHOST:Nahomy\Universidad Nacional">
+        <ConnectionNode Name="DESKTOP-1J8JCLT\LOCALHOST:DESKTOP-1J8JCLT\Admin">
           <Created>2025-08-05T15:11:04.822748-06:00</Created>
           <Type>SQL</Type>
           <Server>DESKTOP-1J8JCLT\LOCALHOST</Server>
@@ -17,7 +17,7 @@
           <ConnectionProtocol>NotSpecified</ConnectionProtocol>
           <ApplicationName>Microsoft SQL Server Management Studio - Consulta</ApplicationName>
         </ConnectionNode>
-        <ConnectionNode Name="localhost:Nahomy\Universidad Nacional">
+        <ConnectionNode Name="localhost:DESKTOP-1J8JCLT\Admin">
           <Created>2025-08-22T18:28:40.8477049-06:00</Created>
           <Type>SQL</Type>
           <Server>localhost</Server>
