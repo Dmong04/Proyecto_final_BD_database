@@ -31,8 +31,8 @@ BEGIN TRY
  INSERT INTO passengers ([name], age, tour_detail_id) VALUES (@name, @age, @tour_detail_id);
 END TRY
 BEGIN CATCH
- RAISERROR ('Error al agregar al pasajero',16, 1)
- RETURN
+    DECLARE @ErrorMessage NVARCHAR(4000) = ERROR_MESSAGE();
+    RAISERROR(@ErrorMessage,16,1);
 END CATCH
 END
 GO

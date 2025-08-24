@@ -107,7 +107,6 @@ GO
 -- Table: tour_detail
 CREATE TABLE tour_detail (
     id INT IDENTITY(1,1) PRIMARY KEY,
-    passenger_count INT NOT NULL,
     origin VARCHAR(40) NOT NULL,
     destination VARCHAR(40) NOT NULL,
     tour_id INT NOT NULL,

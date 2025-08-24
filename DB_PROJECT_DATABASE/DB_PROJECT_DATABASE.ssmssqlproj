@@ -22,8 +22,8 @@
     <LogicalFolder Name="Consultas" Type="0" Sorted="true">
       <Items>
         <FileNode Name="coco_tours_script.sql">
-          <AssociatedConnectionMoniker />
-          <AssociatedConnSrvName />
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-1J8JCLT\LOCALHOST:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-1J8JCLT\LOCALHOST</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>coco_tours_script.sql</FullPath>
         </FileNode>
@@ -75,6 +75,12 @@
           <AssociatedConnUserName />
           <FullPath>pa_extra_delete.sql</FullPath>
         </FileNode>
+        <FileNode Name="pa_extra_reservation_add.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-1J8JCLT\LOCALHOST:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-1J8JCLT\LOCALHOST</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>pa_extra_reservation_add.sql</FullPath>
+        </FileNode>
         <FileNode Name="pa_extra_update.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-1J8JCLT\LOCALHOST:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>DESKTOP-1J8JCLT\LOCALHOST</AssociatedConnSrvName>
@@ -86,6 +92,12 @@
           <AssociatedConnSrvName>DESKTOP-1J8JCLT\LOCALHOST</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>pa_passenger_add.sql</FullPath>
+        </FileNode>
+        <FileNode Name="pa_reservation_add.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-1J8JCLT\LOCALHOST:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-1J8JCLT\LOCALHOST</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>pa_reservation_add.sql</FullPath>
         </FileNode>
         <FileNode Name="pa_supplier_add.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-1J8JCLT\LOCALHOST:True</AssociatedConnectionMoniker>
@@ -111,6 +123,12 @@
           <AssociatedConnUserName />
           <FullPath>pa_tour_add.sql</FullPath>
         </FileNode>
+        <FileNode Name="pa_tour_reservation_insert.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-1J8JCLT\LOCALHOST:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-1J8JCLT\LOCALHOST</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>pa_tour_reservation_insert.sql</FullPath>
+        </FileNode>
         <FileNode Name="pa_tour_update.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-1J8JCLT\LOCALHOST:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>DESKTOP-1J8JCLT\LOCALHOST</AssociatedConnSrvName>
@@ -123,11 +141,23 @@
           <AssociatedConnUserName />
           <FullPath>queries de prueba.sql</FullPath>
         </FileNode>
-        <FileNode Name="user_trigger.sql">
+        <FileNode Name="trg_extra_detail.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-1J8JCLT\LOCALHOST:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>DESKTOP-1J8JCLT\LOCALHOST</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>user_trigger.sql</FullPath>
+          <FullPath>trg_extra_detail.sql</FullPath>
+        </FileNode>
+        <FileNode Name="trg_tour_detail.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-1J8JCLT\LOCALHOST:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-1J8JCLT\LOCALHOST</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>trg_tour_detail.sql</FullPath>
+        </FileNode>
+        <FileNode Name="trg_user.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-1J8JCLT\LOCALHOST:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-1J8JCLT\LOCALHOST</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>trg_user.sql</FullPath>
         </FileNode>
       </Items>
     </LogicalFolder>
